@@ -12,3 +12,5 @@ Images = new FS.Collection("images", {
         }
     }
 });
+
+Meteor.subscribe('images');
