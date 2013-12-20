@@ -8,3 +8,5 @@
 /http-methods
 /collection-hooks
 /power-queue
+/collectionFS
+/cfs-handlebars

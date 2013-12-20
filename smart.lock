@@ -27,7 +27,7 @@
       "collectionFS": {
         "git": "https://github.com/CollectionFS/Meteor-CollectionFS.git",
         "branch": "devel-merge",
-        "commit": "efc13a2a545f04316f516e7943f43b6d9f8e7811"
+        "commit": "2f3e804aaf1d8755f227961931d7ca82b97e56c5"
       },
       "cfs-gridfs": {
         "git": "https://github.com/CollectionFS/Meteor-cfs-gridfs.git",
@@ -42,7 +42,7 @@
       "cfs-handlebars": {
         "git": "https://github.com/CollectionFS/Meteor-cfs-handlebars.git",
         "branch": "master",
-        "commit": "6dc8fc2d9a1c246c6459e3a977ffda98cd16fd29"
+        "commit": "78b879da7f157e02cdebe465c48e99a00b3818af"
       },
       "cfs-graphicsmagick": {
         "git": "https://github.com/CollectionFS/Meteor-cfs-graphicsmagick.git",
