@@ -12,9 +12,8 @@
 		Upload Progress: {{cfsUploadProgress}}%
 	{{/if}}
 	{{#each images}}
-		{{#if cfsIsUploading}}
-			{{else}}
-			<img class="scaleImage" src="{{cfsFileUrl "thumbnail"}}">
+		{{#if isUploaded}}
+			<img class="scaleImage" src="{{url copy="thumbnail"}}">
 		{{/if}}
 	{{/each}}
 </template>

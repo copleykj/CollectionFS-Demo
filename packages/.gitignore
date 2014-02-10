@@ -10,3 +10,7 @@
 /power-queue
 /collectionFS
 /cfs-handlebars
+/join
+/reactive-property
+/micro-queue
+/reactive-list
