@@ -6,19 +6,12 @@
     },
     "cfs-gridfs": {
       "git": "https://github.com/CollectionFS/Meteor-cfs-gridfs.git"
-
     },
     "cfs-filesystem": {
       "git": "https://github.com/CollectionFS/Meteor-cfs-filesystem.git"
-
-    },
-    "cfs-handlebars": {
-      "git": "https://github.com/CollectionFS/Meteor-cfs-handlebars.git"
-
     },
     "cfs-graphicsmagick": {
       "git": "https://github.com/CollectionFS/Meteor-cfs-graphicsmagick.git"
-
     }
   }
 }

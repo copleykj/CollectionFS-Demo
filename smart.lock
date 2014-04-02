@@ -14,10 +14,6 @@
         "git": "https://github.com/CollectionFS/Meteor-cfs-filesystem.git",
         "branch": "master"
       },
-      "cfs-handlebars": {
-        "git": "https://github.com/CollectionFS/Meteor-cfs-handlebars.git",
-        "branch": "master"
-      },
       "cfs-graphicsmagick": {
         "git": "https://github.com/CollectionFS/Meteor-cfs-graphicsmagick.git",
         "branch": "master"
@@ -39,11 +35,6 @@
         "branch": "master",
         "commit": "27964961f0e6865b27879129f02c632da7b78418"
       },
-      "cfs-handlebars": {
-        "git": "https://github.com/CollectionFS/Meteor-cfs-handlebars.git",
-        "branch": "master",
-        "commit": "163d0e8dba59c7b5db50d978e9a0e8b94f425584"
-      },
       "cfs-graphicsmagick": {
         "git": "https://github.com/CollectionFS/Meteor-cfs-graphicsmagick.git",
         "branch": "master",
@@ -51,7 +42,7 @@
       },
       "cfs-base-package": {
         "git": "https://github.com/CollectionFS/Meteor-cfs-base-package.git",
-        "branch": "master",
+        "tag": "v0.0.15",
         "commit": "83f31eb7286292978eb3b572d8f7f51616fdc600"
       },
       "cfs-file": {
