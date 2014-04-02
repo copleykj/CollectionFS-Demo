@@ -2,23 +2,23 @@
   "packages": {
     "collectionFS": {
       "git": "https://github.com/CollectionFS/Meteor-CollectionFS.git",
-      "branch": "devel-merge"
+      "branch": "devel"
     },
     "cfs-gridfs": {
-      "git": "https://github.com/CollectionFS/Meteor-cfs-gridfs.git",
-      "branch": "master"
+      "git": "https://github.com/CollectionFS/Meteor-cfs-gridfs.git"
+
     },
     "cfs-filesystem": {
-      "git": "https://github.com/CollectionFS/Meteor-cfs-filesystem.git",
-      "branch": "master"
+      "git": "https://github.com/CollectionFS/Meteor-cfs-filesystem.git"
+
     },
     "cfs-handlebars": {
-      "git": "https://github.com/CollectionFS/Meteor-cfs-handlebars.git",
-      "branch": "master"
+      "git": "https://github.com/CollectionFS/Meteor-cfs-handlebars.git"
+
     },
     "cfs-graphicsmagick": {
-      "git": "https://github.com/CollectionFS/Meteor-cfs-graphicsmagick.git",
-      "branch": "master"
+      "git": "https://github.com/CollectionFS/Meteor-cfs-graphicsmagick.git"
+
     }
   }
 }
