@@ -1,6 +1,6 @@
 # CollectionFS Demo
 
-Demo for the `devel-merge` branch of CollectionFS.
+Demo for the `devel` branch of CollectionFS. Updated 4/2/14 to reflect the latest changes to the API.
 
 ## Getting Started
 
@@ -25,6 +25,8 @@ When installing in your own project you will have to add the cfs-gridfs, cfs-fil
 
 *cfs-filesystem* - https://github.com/CollectionFS/Meteor-cfs-filesystem
 
-*cfs-handlebars* - https://github.com/CollectionFS/Meteor-cfs-handlebars
-
 *cfs-graphicsmagick* - https://github.com/CollectionFS/Meteor-cfs-graphicsmagick
+
+##Styles
+
+When creating this project I used Compass and Susy SASS frameworks. They are not required to run the project but if you wish to use this for the base of another project you'll need to install SASS, Compass and Susy.
