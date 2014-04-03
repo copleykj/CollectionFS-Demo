@@ -12,9 +12,11 @@
 </body>
 
 <template name="images">
-	{{#each images}}
-		{{>photoTile}}
-	{{/each}}
+	<div id="images">
+		{{#each images}}
+			{{>photoTile}}
+		{{/each}}
+	</div>
 </template>
 
 
@@ -30,7 +32,7 @@
 
 				{{#unless isUploaded}}
 					{{! If we haven't fully uploaded the file yet show the progress}}
-					<p class="uploadProgress">uploading..<br>{{uploadProgress}}%</p>
+					<p class="uploadProgress">uploading..{{uploadProgress}}%</p>
 				{{else}}
 					{{! 
 						Since we have a fully uploaded file but the store hasn't finished

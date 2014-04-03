@@ -1,0 +1,55 @@
+/* line 6, ../sass/style.scss */
+.photo_tile {
+  width: 16.12903%;
+  float: left;
+  position: relative;
+}
+/* line 63, ../../../../.gem/ruby/2.1.0/gems/susy-2.1.1/sass/susy/language/susy/_gallery.scss */
+.photo_tile:nth-child(6n + 1) {
+  margin-left: 0;
+  margin-right: -100%;
+  clear: both;
+  margin-left: 0;
+}
+/* line 63, ../../../../.gem/ruby/2.1.0/gems/susy-2.1.1/sass/susy/language/susy/_gallery.scss */
+.photo_tile:nth-child(6n + 2) {
+  margin-left: 16.77419%;
+  margin-right: -100%;
+  clear: none;
+}
+/* line 63, ../../../../.gem/ruby/2.1.0/gems/susy-2.1.1/sass/susy/language/susy/_gallery.scss */
+.photo_tile:nth-child(6n + 3) {
+  margin-left: 33.54839%;
+  margin-right: -100%;
+  clear: none;
+}
+/* line 63, ../../../../.gem/ruby/2.1.0/gems/susy-2.1.1/sass/susy/language/susy/_gallery.scss */
+.photo_tile:nth-child(6n + 4) {
+  margin-left: 50.32258%;
+  margin-right: -100%;
+  clear: none;
+}
+/* line 63, ../../../../.gem/ruby/2.1.0/gems/susy-2.1.1/sass/susy/language/susy/_gallery.scss */
+.photo_tile:nth-child(6n + 5) {
+  margin-left: 67.09677%;
+  margin-right: -100%;
+  clear: none;
+}
+/* line 63, ../../../../.gem/ruby/2.1.0/gems/susy-2.1.1/sass/susy/language/susy/_gallery.scss */
+.photo_tile:nth-child(6n + 6) {
+  margin-left: 83.87097%;
+  margin-right: -100%;
+  clear: none;
+}
+/* line 10, ../sass/style.scss */
+.photo_tile img {
+  width: 100%;
+}
+/* line 14, ../sass/style.scss */
+.photo_tile .uploadProgress {
+  position: absolute;
+  bottom: 10%;
+  left: 5px;
+  right: 5px;
+  text-align: center;
+}

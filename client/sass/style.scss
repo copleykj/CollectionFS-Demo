@@ -1,0 +1,21 @@
+// Screen
+// ======
+
+@import "grids";
+
+.photo_tile{
+	@include gallery(2 of 12);
+	position:relative;
+
+	img{
+		width:100%;
+	}
+
+	.uploadProgress {
+		position:absolute;
+		bottom:10%;
+		left:5px;
+		right:5px;
+		text-align: center;
+	}
+}
