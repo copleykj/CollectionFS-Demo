@@ -6,7 +6,7 @@ Demo for the `devel` branch of CollectionFS. Updated 4/2/14 to reflect the lates
 
 1. `git clone https://github.com/copleykj/CollectionFS-Demo.git`
 
-2. Run `mrt update`
+2. Run `mrt install`
 
 3. Add any of the dependent packages to meteor by running `meteor add packageName`
 
