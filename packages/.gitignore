@@ -1,7 +1,6 @@
 /collectionFS
 /cfs-gridfs
 /cfs-filesystem
-/cfs-handlebars
 /cfs-graphicsmagick
 /cfs-base-package
 /cfs-file
@@ -13,6 +12,7 @@
 /cfs-storage-adapter
 /cfs-filesaver
 /http-methods
+/data-man
 /cfs-upload-ddp
 /http-publish
 /cfs-tempstore
